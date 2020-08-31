@@ -1,0 +1,6 @@
+.venv
+resources/test_gallery
+resources/test_top
+resources/galleries.txt
+node_modules
+.vscode
